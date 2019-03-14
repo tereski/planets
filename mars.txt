@@ -8,5 +8,4 @@ Mars is the famous red plane
 CMars will be invaided
 C
 
-Another line added
-It's a bit smaller than earth.t
+Another line addedt
